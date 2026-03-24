@@ -21,7 +21,6 @@ class wave_order {
                     System.out.print(arr[row][col]+" ");
                 }
             }
-            col++;
         }
         sc.close();
     }
